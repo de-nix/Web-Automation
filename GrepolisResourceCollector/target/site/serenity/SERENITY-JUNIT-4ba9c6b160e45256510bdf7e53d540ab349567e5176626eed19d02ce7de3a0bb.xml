@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.search.SearchByKeywordStory" skipped="0" tests="1" time="20.72" timestamp="2021-06-05 12:12:19"><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword apple should display the corresponding article"/></testsuite>
